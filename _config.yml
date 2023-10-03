@@ -1,4 +1,4 @@
-title: Hacker-Blog
+title: "宇宙很大，生活更大"
 description: "自认为在写作的人"
 author:
   name: "wyattJ"
@@ -28,5 +28,7 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "wyattJ"
 year : "2020"
+
+slogan : "宇宙很大，生活更大"
