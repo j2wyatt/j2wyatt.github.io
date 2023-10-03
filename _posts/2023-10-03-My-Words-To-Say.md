@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 title: 你以为的世界已经消失了
 categories: [Maybe]
 ---
