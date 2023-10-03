@@ -1,4 +1,4 @@
-title: "宇宙很大，生活更大"
+title: "WyattJ blog"
 description: "自认为在写作的人"
 author:
   name: "wyattJ"
@@ -10,7 +10,7 @@ baseurl: /
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
+paginate: 30
 paginate_path: /page/:num/
 
 defaults:
